@@ -1,1 +1,1 @@
-# courses
+omegaUp Courses -- Educational Committee
