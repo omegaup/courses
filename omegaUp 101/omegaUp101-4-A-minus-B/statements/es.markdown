@@ -7,7 +7,7 @@ Dados dos números enteros, $A$ y $B$, escribe un programa que calcule el result
 
 # Entrada
 
-Una línea con 2 números enteros, $A$ y $B$, separados por un espacio.
+Dos líneas con un entero en cada una, $A$ en la primera y $B$ en la segunda.
 
 # Salida
 
